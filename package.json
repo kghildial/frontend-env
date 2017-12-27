@@ -1,12 +1,12 @@
 {
-  "name": "ajax-test",
+  "name": "frontend-env",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp"
   },
-  "author": "Kinshuk Ghildial ",
+  "author": "Kinshuk Ghildial",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.21.0",
