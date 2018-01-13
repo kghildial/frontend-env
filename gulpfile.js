@@ -13,7 +13,8 @@ gulp.task('sass', function() {
 //Watch & serve
 gulp.task('serve', ['sass'], function() {
   browserSync.init({
-    server: './src'
+    server: './src',
+    notify: false
   });
 
   gulp.watch(['src/js/*.js'], browserSync.reload);
