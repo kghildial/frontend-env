@@ -9,8 +9,8 @@
   "author": "Kinshuk Ghildial",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "latest",
-    "gulp": "latest",
-    "gulp-sass": "latest"
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
   }
 }
