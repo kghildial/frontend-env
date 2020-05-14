@@ -1,8 +1,9 @@
-# Frontend DevEnv
+# Frontend Env
 
-A barebones (extensible) frontend development environment with SASS + livereload support.
+A barebones (extensible) frontend development environment.
 
-## Setup:
+Salient features:
 
-* Install dependencies: `npm install`
-* Run liveserver: `npm start`
+- ESLint support (airbnb style guide) for Linting & code style formatting
+- Prettier support, for code indentation formatting
+- Webpack as the code/assets bundler
